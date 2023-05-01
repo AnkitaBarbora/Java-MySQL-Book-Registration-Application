@@ -25,7 +25,9 @@ To run the Book Registration System, follow these steps:
 1. Clone the repository to your local machine.
 2. Open the project in your IDE.
 3. Build the project in your IDE to generate the WAR (Web Application Archive) file.
-4. Rename "javacrud" as the name your database in the line con = DriverManager.getConnection("jdbc:mysql://localhost:3307/javacrud", "root",""); in the source code.
+4. Rename "javacrud" as the name your database in the line 
+// con = DriverManager.getConnection("jdbc:mysql://localhost:3307/javacrud", "root",""); 
+in the source code.
 5. Start XAMPP and ensure that Apache and mySQL are running.
 6. Click on run as java application in your IDE.
 
