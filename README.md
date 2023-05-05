@@ -1,6 +1,6 @@
 # Book Registration System using Java and MySQL with XAMPP
 
-This project is a Book Registration System built with Java and MySQL, using XAMPP as the local development environment. The system allows users to add, edit, delete, and search for books in a database. The user interface is implemented using Java Server Pages (JSP), and the data is stored in a MySQL database.
+This project is a Book Registration System built with Java and MySQL, using XAMPP as the local development environment. The system allows users to add, edit, delete, and search for books in a database. The user interface is implemented using Java Swing, and the data is stored in a MySQL database.
 
 ## Getting Started
 
